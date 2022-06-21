@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Flife-is-beautiful-banner-template-editable-inspirational-message-vector_53876-154107.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Flife-quotes&tbnid=FSRc3vp1bpDcHM&vet=12ahUKEwid4evysL74AhUtRmwGHbxSCSIQxiAoAnoECAAQIQ..i&docid=hQu4tmmOMFBlYM&w=2000&h=1125&itg=1&q=quotes%20banner&ved=2ahUKEwid4evysL74AhUtRmwGHbxSCSIQxiAoAnoECAAQIQ)](https:/ShaiviAgarwal.io)
+[![MasterHead](https://user-images.githubusercontent.com/75210337/122256026-4d55bb80-ceec-11eb-885d-acf40e06990c.png)](https:/ShaiviAgarwal.io)
 <h1 align="center">Hi,I am Shaivi! Great to see you here!👋</h1>
 <h3 align="center">A passionate Student who always keeps learning new things.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3oriNQ9YMfI15u8dr2%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fdigitalsynopsis.com%2Fdesign%2Ffunny-gifs-creatives-designers-agency-life%2F&tbnid=o72xhLsfXp72uM&vet=12ahUKEwjw5K-Xr774AhUwgGMGHS4MBxkQMygGegUIARCYAg..i&docid=wwZTfjT0DeqoZM&w=480&h=410&q=designer%20gif&hl=en&ved=2ahUKEwjw5K-Xr774AhUwgGMGHS4MBxkQMygGegUIARCYAg">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif?format=750w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiviagarwal2&label=Profile%20views&color=0e75b6&style=flat" alt="shaiviagarwal2" /> </p>
 
