@@ -7,7 +7,7 @@
 
 - 🙋‍♀️ I’m a 1st year undergrad pursuing BTech with IT.
 
-- 👯 I’m looking to collaborate on making amazing WebD projects
+- 🔭 Hackathon hunter
 
 - 👧🏻 Pronouns- She/Her
 
