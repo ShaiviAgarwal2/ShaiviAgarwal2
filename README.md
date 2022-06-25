@@ -7,7 +7,7 @@
 
 - 🙋‍♀️ I’m a 1st year undergrad pursuing BTech with IT.
 
-- 🔭 Hackathon hunter
+- 🔭 My major interest lies in Data Science, Machine Learning, Competitive Coding and Web development. I also have a deep interest in Graphic designing.
 
 - 👧🏻 Pronouns- She/Her
 
