@@ -1,5 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/75210337/122256026-4d55bb80-ceec-11eb-885d-acf40e06990c.png)](https:/ShaiviAgarwal.io)
-<h1 align="center">Hi,I am Shaivi! Great to see you here!👋</h1>
+
+<h1 align="center">Hi, I'm Shaivi! Great to see you here! &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
+
 <h3 align="center">A passionate Student who always keeps learning new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif?format=750w">
 
@@ -23,7 +25,12 @@
 
 <h3 align="left">⚒️Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+</p>
+  
+----
+  
+<p>
+<h2 align="center">:octocat: Github Statistics </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiviagarwal2&show_icons=true&locale=en&layout=compact" alt="shaiviagarwal2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaiviagarwal2&show_icons=true&locale=en" colour="black" alt="shaiviagarwal2" /></p>
