@@ -34,8 +34,6 @@
 <p>
 <h2 align="center">:octocat: Github Statistics </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiviagarwal2&show_icons=true&locale=en&layout=compact&theme=radical" alt="shaiviagarwal2" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaiviagarwal2&show_icons=true&locale=en&theme=radical" alt="shaiviagarwal2" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiviagarwal2&theme=radical" alt="shaiviagarwal2" /></p>
 
