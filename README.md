@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/75210337/122256026-4d55bb80-ceec-11eb-885d-acf40e06990c.png)](https:/ShaiviAgarwal.io)
+[![MasterHead](https://media.giphy.com/media/jO18SawuDfCdO6qbd5/giphy.gif)](https:/ShaiviAgarwal.io)
 
 <h1 align="center">Hi, I'm Shaivi! Great to see you here! &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
 
