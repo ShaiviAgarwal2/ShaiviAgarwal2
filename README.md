@@ -9,9 +9,9 @@
 
 <h3 align="left"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="40px">About Me :</h3>
 
-- 🙋‍♀️ I’m a 2nd year undergrad pursuing BTech with IT.
+- 🙋‍♀️ I’m a final year undergrad pursuing BTech with IT.
 
-- 🔭 My major interest lies in Data Science, Machine Learning, Competitive Coding and Web development. I also have a deep interest in Graphic designing.
+- 🔭 My major interest lies in Problem Solving, Open Source, Artificial Intelligence and Web Development. I also have a deep interest in Content Writing.
 
 - 👧🏻 Pronouns- She/Her
 
